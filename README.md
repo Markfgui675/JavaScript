@@ -7,3 +7,4 @@ Repositório criado durante o curso do JavaScript com finalidade de aprendizagem
 * Exercício 1:
    * Site dinâmico que altera o estilo do body e a mensagem do site de acordo com o horário.
 * Exercício 2:
+   * Site dinâmico que mostra resultados diferentes dependendo da idade e do sexo do usuário.
